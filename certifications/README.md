@@ -35,4 +35,4 @@ This certification demonstrates hands-on analytical, reporting, and dashboard de
 - Dashboard Insights
 - Analytical Reporting
 
-[📄 View Certificate](Deloitte_Data_Analytics_Certificate.pdf)
+[📄 View Certificate](Deloitte_Data_Analytics_Certificate.pdf.pdf)
