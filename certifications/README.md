@@ -19,7 +19,7 @@
 
 This certification demonstrates hands-on analytical, reporting, and dashboard development skills.
 
-[📄 View Certificate](certifications/Excelr_Dataanalyst_certificate.pdf)
+[📄 View Certificate](Excelr_Dataanalyst_certificate.pdf)
 
 ---
 
