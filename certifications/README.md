@@ -19,4 +19,4 @@
 
 This certification demonstrates hands-on analytical, reporting, and dashboard development skills.
 
-[📄 View Certificate](Pannerselvam Rahul Kumar.pdf)
+[📄 View Certificate](./Pannerselvam%20Rahul%20Kumar.pdf)
