@@ -20,3 +20,19 @@
 This certification demonstrates hands-on analytical, reporting, and dashboard development skills.
 
 [📄 View Certificate](./Pannerselvam%20Rahul%20Kumar.pdf)
+
+---
+
+## 🏅 Deloitte – Data Analytics Virtual Experience
+
+- Organization: Deloitte
+- Platform: Forage
+- Focus: Business Data Analysis & Insights
+
+### Skills Applied:
+- Data Cleaning
+- Business Problem Solving
+- Dashboard Insights
+- Analytical Reporting
+
+[📄 View Certificate](Deloitte_Data_Analytics_Certificate.pdf)
