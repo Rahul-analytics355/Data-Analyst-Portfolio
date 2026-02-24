@@ -18,3 +18,5 @@
 ---
 
 This certification demonstrates hands-on analytical, reporting, and dashboard development skills.
+
+[📄 View Certificate](Pannerselvam Rahul Kumar.pdf)
