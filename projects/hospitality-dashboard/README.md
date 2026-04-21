@@ -25,5 +25,6 @@ This project analyzes hotel booking data to understand revenue, occupancy, and c
 * Cancellation rate impacts revenue significantly
 
 ## 📷 Dashboards
+### 🔹 Power BI Dashboard
+![Power BI](Power Bi Dashboard For Hospitality Project.png
 
-(Images will be added below)
