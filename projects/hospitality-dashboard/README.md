@@ -1,7 +1,7 @@
 # 🏨 Hospitality Dashboard Analysis
 
 ## 📌 Overview
-
+📊 End-to-end hospitality data analysis project using Power BI, Tableau, Excel & SQL
 This project analyzes hotel booking data to understand revenue, occupancy, and customer behavior.
 
 ## 🧰 Tools Used
