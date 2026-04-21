@@ -32,3 +32,20 @@ This project analyzes hotel booking data to understand revenue, occupancy, and c
 
 ### 🔹 Excel Dashboard
 ![Excel](excel_dashboard.png)
+## ▶️ How to Use
+
+1. Download dataset from repository  
+2. Open Power BI file (.pbix)  
+3. Explore Tableau dashboard (.twbx)  
+4. Use SQL file for queries  
+5. Check Excel dashboard for summary insights  
+
+---
+
+## 📁 Project Files
+
+- Power BI Dashboard (.pbix)  
+- Tableau Dashboard (.twbx)  
+- Excel Dashboard (.xlsx)  
+- SQL Script (.sql)  
+- Dataset (.zip)  
