@@ -32,6 +32,17 @@ This portfolio showcases:
 
 ---
 
+## 🎓 Certifications
+
+* ExcelR – Data Analyst Programme
+* Deloitte – Data Analytics Virtual Experience
+* Data Analyst Internship (Aivariant)
+* SQL (Advanced) – HackerRank
+
+👉 [View All Certificates](certifications)
+
+---
+
 ## 🚀 Projects
 
 ### 🏨 Hospitality Dashboard Analysis
