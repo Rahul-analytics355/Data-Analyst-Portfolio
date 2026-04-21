@@ -32,6 +32,12 @@ This project analyzes hotel booking data to understand revenue, occupancy, and c
 
 ### 🔹 Excel Dashboard
 ![Excel](excel_dashboard.png)
+## 💡 Business Impact
+
+- Identified high cancellation impact on revenue  
+- Highlighted top-performing booking platforms  
+- Analyzed weekday vs weekend trends  
+- Suggested strategies to improve occupancy
 ## ▶️ How to Use
 
 1. Download dataset from repository  
