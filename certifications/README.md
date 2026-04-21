@@ -36,3 +36,23 @@ This certification demonstrates hands-on analytical, reporting, and dashboard de
 - Analytical Reporting
 
 [📄 View Certificate](Deloitte_Data_Analytics_Certificate.pdf.pdf)
+
+---
+
+## 🏅 Data Analyst Internship
+
+* Completed Data Analyst Internship program
+* Duration: Sep 2025 – Mar 2026
+* Worked on real-world data analysis projects
+
+📄 [View Certificate](data_analyst_internship_certificate.pdf)
+
+---
+
+## 🏅 SQL (Advanced) – HackerRank
+
+* Demonstrated advanced SQL skills
+* Covered joins, subqueries, window functions
+
+📄 [View Certificate](sql_advanced_certificate.pdf)
+
