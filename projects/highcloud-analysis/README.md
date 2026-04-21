@@ -29,8 +29,14 @@ This project analyzes High Cloud business data to understand sales performance, 
 ---
 
 ## 📊 Dashboards
+### 🔹 Power BI Dashboard
+![Power BI](powerbi_dashboard.jpeg)
 
-(Images will be added below)
+### 🔹 Tableau Dashboard
+![Tableau](tableau_dashboard.png)
+
+### 🔹 Excel Dashboard
+![Excel](excel_dashboard.png)
 
 ---
 
