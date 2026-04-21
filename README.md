@@ -43,13 +43,12 @@ This portfolio showcases:
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🏨 Hospitality Dashboard Analysis
 - Revenue, occupancy & booking trend analysis  
 - Built dashboards using Power BI, Tableau & Excel  
 - Identified key business insights  
-
 👉 [View Project](projects/hospitality-dashboard)
 
 ---
@@ -57,10 +56,8 @@ This portfolio showcases:
 ### ☁️ High Cloud Analysis
 - Sales & customer behavior analysis  
 - SQL + Power BI + Tableau project  
-- Business decision insights  
-
+- Generated business decision insights  
 👉 [View Project](projects/highcloud-analysis)
----
 
 ## 💡 What I Bring
 
@@ -73,7 +70,9 @@ This portfolio showcases:
 
 ## 📫 Contact
 
-- LinkedIn:https://www.linkedin.com/in/rahul-kumar-93951624a
-- Email: Rahulkumarmt1821@gmail.com
+- LinkedIn: [Rahul Kumar](https://www.linkedin.com/in/rahul-kumar-93951624a)
+- Email: rahulkumarmt1821@gmail.com
+- Open to Data Analyst / Business Analyst roles
 
+---
 I am passionate about turning raw data into meaningful business insights.
