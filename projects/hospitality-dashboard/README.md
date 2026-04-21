@@ -27,4 +27,8 @@ This project analyzes hotel booking data to understand revenue, occupancy, and c
 ## 📷 Dashboards
 ### 🔹 Power BI Dashboard
 ![Power BI](powerbi_dashboard.png)
+### 🔹 Tableau Dashboard
+![Tableau](tableau_dashboard.png)
 
+### 🔹 Excel Dashboard
+![Excel](excel_dashboard.png)
