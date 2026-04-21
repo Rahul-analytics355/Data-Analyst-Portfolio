@@ -40,8 +40,36 @@ This project analyzes High Cloud business data to understand sales performance, 
 
 ---
 
+## 💡 Business Impact
+
+- Improved understanding of customer behavior  
+- Identified high-performing products  
+- Highlighted revenue-driving regions  
+- Supported data-driven decision making
+
+ ---
 ## 📈 Key Insights
 
 * Top products contribute majority of revenue
 * Repeat customers generate higher value
 * Certain regions perform better than others
+
+* ## ▶️ How to Use
+
+1. Download dataset  
+2. Open Power BI file (.pbix)  
+3. Explore Tableau dashboard  
+4. Run SQL queries  
+5. Check Excel dashboard  
+
+---
+
+## 📁 Project Files
+
+- Power BI Dashboard (.pbix)  
+- Tableau Dashboard (.twbx)  
+- Excel Dashboard (.xlsx)  
+- SQL Script (.sql)  
+- Dataset (.zip)  
+
+---
