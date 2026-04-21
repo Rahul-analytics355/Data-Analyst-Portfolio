@@ -1,6 +1,12 @@
-# 👋 Rahul Kumar – Data Analyst Portfolio
+# 👋 Rahul Kumar – Data Analyst
 
-Welcome to my Data Analyst portfolio repository.
+📊 Data Analyst skilled in SQL, Power BI, Tableau & Excel
+📈 Turning raw data into actionable business insights
+
+---
+
+## 🚀 Featured Projects
+
 
 This portfolio showcases:
 
@@ -28,22 +34,35 @@ This portfolio showcases:
 
 ## 🚀 Projects
 
-### ☁️ High Cloud Analysis
-- SQL, Power BI, Tableau & Excel project  
-- Sales and customer behavior analysis  
-- Business insights for decision-making  
-
-👉 [View Project](projects/highcloud-analysis)
-
----
-
 ### 🏨 Hospitality Dashboard Analysis
-- Power BI, Tableau & Excel dashboards  
 - Revenue, occupancy & booking trend analysis  
-- Business insights for hospitality performance  
+- Built dashboards using Power BI, Tableau & Excel  
+- Identified key business insights  
 
 👉 [View Project](projects/hospitality-dashboard)
 
 ---
+
+### ☁️ High Cloud Analysis
+- Sales & customer behavior analysis  
+- SQL + Power BI + Tableau project  
+- Business decision insights  
+
+👉 [View Project](projects/highcloud-analysis)
+---
+
+## 💡 What I Bring
+
+- Data-driven decision making  
+- Dashboard development for business insights  
+- SQL-based data analysis  
+- Data cleaning & transformation
+
+---
+
+## 📫 Contact
+
+- LinkedIn:https://www.linkedin.com/in/rahul-kumar-93951624a
+- Email: Rahulkumarmt1821@gmail.com
 
 I am passionate about turning raw data into meaningful business insights.
