@@ -49,7 +49,7 @@ This certification demonstrates hands-on analytical, reporting, and dashboard de
 
 ---
 
-🏅 IBM – Getting Started with Artificial Intelligence 
+## 🏅 IBM – Getting Started with Artificial Intelligence 
 
 - Completion Date: December 2025  
 - Issued by: IBM SkillsBuild  
@@ -68,7 +68,7 @@ This certification reflects a foundational understanding of AI concepts and thei
 
 ---
 
-🏅 NASSCOM – Data Analyst Certification (Gold)
+## 🏅 NASSCOM – Data Analyst Certification (Gold)
 
 - Completion Date: March 2026  
 - Issued by: NASSCOM (FutureSkills Prime)  
