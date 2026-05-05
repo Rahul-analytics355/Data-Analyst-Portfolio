@@ -49,6 +49,46 @@ This certification demonstrates hands-on analytical, reporting, and dashboard de
 
 ---
 
+🎓 IBM – Getting Started with Artificial Intelligence
+
+- Completion Date: December 2025  
+- Issued by: IBM SkillsBuild  
+
+Skills Covered:
+
+- Basics of Artificial Intelligence concepts  
+- Understanding Machine Learning and its applications  
+- AI use cases in real-world scenarios  
+- Introduction to data-driven decision making  
+- Fundamentals of AI tools and technologies  
+
+This certification reflects a foundational understanding of AI concepts and their practical applications in modern technology.
+
+📄 [View Certificate](./certifications/ibm-ai-certificate.pdf)
+
+---
+
+🏅 NASSCOM – Data Analyst Certification (Gold)
+
+- Completion Date: March 2026  
+- Issued by: NASSCOM (FutureSkills Prime)  
+- Score: 79% (Gold Category)  
+
+Skills Covered:
+
+- Data Analysis and interpretation  
+- SQL and database querying fundamentals  
+- Statistical analysis and reporting  
+- Data cleaning and validation techniques  
+- Business insights and KPI tracking  
+- Problem-solving using data  
+
+This certification demonstrates strong analytical skills and the ability to work with data to generate meaningful insights.
+
+📄 [View Certificate](./certifications/nasscom-data-analyst.pdf)
+
+---
+
 ## 🏅 SQL (Advanced) – HackerRank
 
 * Demonstrated advanced SQL skills
