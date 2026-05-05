@@ -64,7 +64,7 @@ Skills Covered:
 
 This certification reflects a foundational understanding of AI concepts and their practical applications in modern technology.
 
-📄 [View Certificate](./certifications/ibm-ai-certificate.pdf)
+📄 [View Certificate](ibm-ai-certificate.pdf)
 
 ---
 
@@ -85,7 +85,7 @@ Skills Covered:
 
 This certification demonstrates strong analytical skills and the ability to work with data to generate meaningful insights.
 
-📄 [View Certificate](./certifications/nasscom-data-analyst.pdf)
+📄 [View Certificate](nasscom-data-analyst.pdf)
 
 ---
 
