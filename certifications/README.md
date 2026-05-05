@@ -49,7 +49,7 @@ This certification demonstrates hands-on analytical, reporting, and dashboard de
 
 ---
 
-🎓 IBM – Getting Started with Artificial Intelligence
+🏅 IBM – Getting Started with Artificial Intelligence 
 
 - Completion Date: December 2025  
 - Issued by: IBM SkillsBuild  
