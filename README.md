@@ -59,6 +59,15 @@ This portfolio showcases:
 - Generated business decision insights  
 👉 [View Project](projects/highcloud-analysis)
 
+### 🍽️ Zomato Analytics Project
+
+- Restaurant performance & customer behavior analysis
+- SQL + Power BI + Tableau + Excel project
+- Built interactive dashboards & KPI reports
+- Identified pricing, ratings & delivery insights
+
+👉 [View Project](./projects/Zomato-Analytics-Project)
+
 ## 💡 What I Bring
 
 - Data-driven decision making  
